@@ -1,0 +1,20 @@
+.mainContent {
+    background-color: rgb(200, 162, 200);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.secondContent {
+    background-color: rgb(221, 28, 141);
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.thirdContent {
+    background-color: rgb(29, 199, 148);
+    height: 88%;
+    width: 30%;
+}
