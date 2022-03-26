@@ -1,0 +1,89 @@
+.contentMain {
+    width: 70vw;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(170, 93, 93);
+    border: 10px solid black;
+}
+
+.textContentMain {
+    width: 80%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 10px solid rgb(9, 9, 117);
+    color: rgb(58, 58, 189);
+    font-family: Arial;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.bars {
+    margin-top: 5vh;
+    height: 49vh;
+    width: 99vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.columnBars {
+    width: 100%;
+    height: 90%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.barsC1 {
+    width: 80%;
+    height: 10%;
+    background-color: blue;
+}
+
+.barsC2 {
+    width: 40%;
+    height: 10%;
+    background-color: purple;
+}
+
+.barsC3 {
+    width: 60%;
+    height: 10%;
+    background-color: green;
+}
+
+.barsC4 {
+    width: 50%;
+    height: 10%;
+    background-color: yellow;
+}
+
+.rowBars {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+}
+
+.barsR1 {
+    width: 45%;
+    height: 100%;
+    background-color: red;
+}
+
+.barsR2 {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(26, 104, 177);
+}
+
+.barsR3 {
+    width: 35%;
+    height: 100%;
+    background-color: rgb(22, 240, 33);
+}
