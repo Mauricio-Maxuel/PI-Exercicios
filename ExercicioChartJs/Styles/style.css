@@ -1,0 +1,10 @@
+.content{
+    display: flex;
+    width: 100Vw;
+}
+.chart2{
+    width: 48%;
+}
+.chart1{
+    width: 48%;
+}
